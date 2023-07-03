@@ -1,3 +1,8 @@
+# SVELTE ?
+```
+얜 뭐하는 애일까? 싶어서 맛만 보는 중 (계속 할지는 몰?루)
+```
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
